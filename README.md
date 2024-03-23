@@ -1,10 +1,10 @@
 # Hi, I'm Martin Abreu! 👋
 
-Welcome to my GitHub profile! I'm a passionate software and hardware development student from Uruguay. Here, you'll find information about me and my interests.
+Welcome to my GitHub profile! I'm a passionate software and hardware development from Uruguay. Here, you'll find information about me and my interests.
 
 ## About Me
 
-- 🔭 Currently studying at [Holberton School Uruguay](https://www.holbertonschool.com/uruguay).
+- 🔭 Graduated at [Holberton School Uruguay](https://www.holbertonschool.com/uruguay).
 - 🌱 Learning and enhancing my skills in both software and hardware development.
 - 👯 I love collaborating on interesting and challenging projects.
 - 📫 You can reach me via email: [martymalkav7@gmail.com](mailto:martymalkav7@gmail.com).
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software and hardware development
 ## Personal Details
 
 - Name: Martin Abreu
-- Age: 35
+- Age: 36
 - Nationality: Uruguayan
 
 ## Interests
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software and hardware development
 ## Languages
 
 - Spanish (native)
-- English (basic)
+- English (technical)
 
 ## LinkedIn Profile
 
